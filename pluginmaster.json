@@ -1,0 +1,25 @@
+[
+  {
+    "Author": "Nil",
+    "Name": "Sophon",
+    "Punchline": "Sophon Api Service",
+    "Description": "",
+    "Changelog": "- Initial upload, base framework",
+    "IsHide": false,
+    "InternalName": "Battlevest",
+    "AssemblyVersion": "0.0.0.1",
+    "TestingAssemblyVersion": "0.0.0.1",
+    "IsTestingExclusive": false,
+    "RepoUrl": "https://github.com/nil2share/MyDalamudPlugins",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 10,
+    "TestingDalamudApiLevel": 10,
+    "DownloadCount": 0,
+    "LastUpdate": 1727198436,
+    "DownloadLinkInstall": "https://github.com/nil2share/MyDalamudPlugins/releases/download/0.0.0.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/nil2share/MyDalamudPlugins/releases/download/0.0.0.1/latest.zip",
+    "DownloadLinkTesting": "https://github.com/nil2share/MyDalamudPlugins/releases/download/0.0.0.2/latest.zip",
+    "SupportsProfiles": true,
+    "IconUrl": ""
+  }
+]
