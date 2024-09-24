@@ -16,10 +16,10 @@
     "TestingDalamudApiLevel": 10,
     "DownloadCount": 0,
     "LastUpdate": 1727198436,
-    "DownloadLinkInstall": "https://github.com/nil2share/MyDalamudPlugins/releases/download/0.0.0.1/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/nil2share/MyDalamudPlugins/releases/download/0.0.0.1/latest.zip",
-    "DownloadLinkTesting": "https://github.com/nil2share/MyDalamudPlugins/releases/download/0.0.0.2/latest.zip",
+    "DownloadLinkInstall": "https://github.com/nil2share/MyDalamudPlugins/releases/download/0.0.0.1/Sophon.zip",
+    "DownloadLinkUpdate": "https://github.com/nil2share/MyDalamudPlugins/releases/download/0.0.0.1/Sophon.zip",
+    "DownloadLinkTesting": "https://github.com/nil2share/MyDalamudPlugins/releases/download/0.0.0.1/Sophon.zip",
     "SupportsProfiles": true,
-    "IconUrl": ""
+    "IconUrl": "https://raw.githubusercontent.com/nil2share/MyDalamudPlugins/refs/heads/main/nil.jpeg"
   }
 ]
